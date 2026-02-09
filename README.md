@@ -22,6 +22,11 @@ This project uses **yt-dlp** for reliable YouTube extraction and **ffmpeg** for 
 - yt-dlp
 - Tkinter
 - ffmpeg
+---
+
+
+## 🚀 How to Run
+- python youtube.py
 
 ---
 
